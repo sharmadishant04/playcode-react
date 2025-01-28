@@ -37,3 +37,50 @@ playcode-clone/
 │   └── app.js      # Main server file  
 │  
 └── README.md       # Project documentation  
+
+```
+### Frontend Setup
+
+## Clone the Repository
+bash
+```
+git clone https://github.com/username/playcode-clone.git  
+cd playcode-clone/frontend  
+```
+
+## Install Dependencies
+bash
+```
+npm install  
+```
+
+## Start the Development Server
+bash
+```
+npm start  
+```
+## Access the Application
+Open http://localhost:3000 in your browser.
+
+Backend Setup (Optional)
+If a backend is implemented for package management or other features:
+
+## Navigate to the Backend Folder
+bash
+```
+cd playcode-clone/backend  
+```
+
+## Install Dependencies
+bash
+```
+npm install  
+```
+## Start the Backend Server
+bash
+```
+node app.js  
+```
+
+## Backend Endpoint
+The backend runs on http://localhost:5000 (or the configured port).
