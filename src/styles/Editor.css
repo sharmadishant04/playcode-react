@@ -1,0 +1,6 @@
+/* src/styles/Editor.css */
+.editor-container {
+    width: 50%;
+    height: 100%;
+    border-right: 1px solid #ccc;
+  }
